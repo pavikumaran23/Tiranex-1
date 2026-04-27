@@ -75,3 +75,5 @@ Add forecasting models
 Enhance UI design
 Integrate real-time data
 Include customer segmentation
+release:https://github.com/pavikumaran23/Tiranex-1/releases/download/T-1/dashboard-sales.and.revenue.mp4
+
